@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T17:18:47.340Z",
+  "generated_at": "2026-10-27T17:31:12.368Z",
   "items": {
     "problem:1058": {
       "kind": "problem",
@@ -37,6 +37,19 @@
       "path": "math/0039-bias-variance-decomposition",
       "first_solved_at": "2026-10-27T17:18:46.660Z",
       "last_pushed_at": "2026-10-27T17:18:46.660Z"
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-10-27T17:31:11.424Z",
+      "last_pushed_at": "2026-10-27T17:31:11.424Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
