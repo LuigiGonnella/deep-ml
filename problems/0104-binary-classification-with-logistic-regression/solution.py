@@ -19,8 +19,6 @@ def predict_logistic(X: np.ndarray, weights: np.ndarray, bias: float) -> np.ndar
 	def sigmoid(z):
 		return 1 / (1 + np.exp(-z))
 	
-	probs = sigmoid(z).reshape(-1).tolist()
+	probs = sigmoid(z).reshape(-1)
 
-	out = [1 if p >= 0.5 else 0 for p in probs]
-
-	return np.array(out)
+	return (probs >= 0.5).astype(int)
