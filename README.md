@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**10** solved · 8 problems · 0 labs · 2 math
+**11** solved · 9 problems · 0 labs · 2 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-27 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Mini-Batch Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/803) | medium | 2026-10-27 | [solution](problems/0803-mini-batch-gradient-descent-step-for-linear-regression) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-27 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
+| [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-10-27 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ## Math
 
